@@ -1,0 +1,20 @@
+body {
+    background-color: #6843ac31 !important;
+}
+
+.site-logo {
+    width: 80px;
+}
+
+nav>div.container-lg,
+main {
+    max-width: 1000px;
+}
+
+main {
+    margin: 60px auto;
+}
+
+section {
+    margin: 40px auto 80px;
+}
