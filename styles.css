@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Rosarivo&display=swap');
+
 body {
-    background-color: #6843ac31 !important;
+    background-color: rgba(255, 177, 190, 0.1) !important;
+    font-family: 'Rosarivo', serif !important;
 }
 
 .site-logo {
@@ -15,6 +18,34 @@ main {
     margin: 60px auto;
 }
 
-section {
-    margin: 40px auto 80px;
+a.nav-link {
+    color: #6743AC;
+}
+
+a.btn {
+    color: #6743AC;
+    background-color: white;
+    font-weight: bold;
+    border: 2px solid #6743AC;
+}
+
+a.btn:hover {
+    color: white;
+    background-color: #6743AC;
+    border: 2px solid #6743AC;
+}
+
+#featured .position-absolute {
+    background-color: rgba(255, 166, 181, 0.3);
+}
+
+
+@media screen and (max-width: 768px) {
+    #featured .position-absolute {
+        position: relative !important;
+    }
+
+    #featured .feature-detail {
+        width: 100% !important;
+    }
 }
