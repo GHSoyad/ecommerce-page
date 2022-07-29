@@ -1,4 +1,4 @@
-# women-fashion-page
-Simple ecommerce page with HTML CSS and Bootstrap
+# women-fashion-page-bootstrap
+Responsive women fashion page with HTML CSS and Bootstrap
 
-Live website: https://ghsoyad.github.io/women-fashion-page/
+Live website: https://ghsoyad.github.io/women-fashion-page-bootstrap/
